@@ -1,6 +1,6 @@
 package src;
-import java.util.Scanner;
-public class Demo {
+
+public class DemoSumofDigit {
 
     //function that finds the sum of digits of a number
     static int findSum(int number)
